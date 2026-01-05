@@ -1,0 +1,2 @@
+# pnuemamegaserver
+mega bot server 
