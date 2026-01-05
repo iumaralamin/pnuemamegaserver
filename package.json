@@ -1,5 +1,5 @@
 {
-  "name": "mega-file-server",
+  "name": "pnuemamegaserver",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
@@ -10,7 +10,10 @@
     "express": "^4.18.2",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "megajs": "^1.1.0",
-    "multer": "^2.0.0-rc.8"
+    "multer": "^2.0.0-rc.8",
+    "megajs": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=18 <23"
   }
 }
