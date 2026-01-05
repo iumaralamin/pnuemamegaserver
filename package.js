@@ -1,6 +1,7 @@
 {
   "name": "mega-file-server",
   "version": "1.0.0",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
